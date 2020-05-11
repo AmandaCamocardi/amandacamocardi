@@ -1,0 +1,39 @@
+body {
+    font-family: system-ui;
+    background-image: url('https://images.wallpaperscraft.com/image/camera_book_food_134556_3415x3415.jpg');
+    background-size: 735px 485px;
+    color: white;
+    text-align: center;
+    height: 100vh;
+    
+  }
+  
+  .menu {
+    background-color: white; 
+  }
+  
+  .menu li {
+    list-style: none;
+    text-align: left;
+  }
+  
+  .menu ul {
+    display: flex;
+    justify-content: space-around;
+  }
+  
+  a {
+    text-decoration: none;
+    color: #f06d06;
+  }
+  
+  a:hover {
+    text-decoration: underline;
+  }
+  
+  .site-subtittle,
+  .site-tittle {
+    color: white;
+    text-align: center;
+  }
+  
